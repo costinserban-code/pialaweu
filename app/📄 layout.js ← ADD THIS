@@ -1,8 +1,0 @@
-pialaw/
-├── pages/
-│   ├── index.js          ← main page
-│   └── api/
-│       └── create-checkout-session.js
-├── .env.local            ← your secrets (don't commit this)
-├── next.config.js
-└── package.json
